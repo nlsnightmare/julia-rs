@@ -1,5 +1,5 @@
 [package]
-name = "mandelbrot"
+name = "julia"
 version = "0.1.0"
 authors = ["Νίκος Μαρουλάκης <nlsnightmare@gmail.com>"]
 edition = "2018"
