@@ -65,8 +65,8 @@ fn save_image(pixels: Vec<Pixel>, width: u32, height: u32) {
 }
 
 fn main() {
-    let width =  2000i32;
-    let height = 2000i32;
+    let width =  3000i32;
+    let height = 3000i32;
 
     let pallete = [
         Pixel::from_hex(0x000000),
